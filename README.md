@@ -1,2 +1,3 @@
 # RoundCoin-Detection
-Python program to detect round coins in an image .
+There are two folders one contains the images and the second includes the main python program to detect coins in an image.
+
